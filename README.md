@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @minseokim521
-- 📫 I'm college student in Kor
+- 📫 I'm college student in Konkuk University
 - 👀 I’m interested in autonomous vehicle
 
 
