@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @minseokim521
 - 📫 I'm college student in Kor
 - 👀 I’m interested in autonomous vehicle
-- 🌱 I’m currently learning ROS & OpenCV
 
 
 <!---
